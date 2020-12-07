@@ -1,4 +1,5 @@
 # IAD
 Class materials for Inquiry-based Art + Design
 
-https://fs2694.github.io/IAD/
+Below is my portfolio
+https://github.com/fs2694/IAD/blob/master/HTML/index.html
